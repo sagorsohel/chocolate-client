@@ -29,7 +29,7 @@ const updateData=useLoaderData()
           icon: 'success',
           title: 'Updated Successfully',
           showConfirmButton: false,
-          timer: 1500
+          timer: 2000
         })
       }
     })
